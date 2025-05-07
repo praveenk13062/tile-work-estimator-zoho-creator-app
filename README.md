@@ -70,4 +70,4 @@ This app was developed as part of my final year project for BCA. The idea stemme
 
 **Praveen Kumar V**  
 Final Year BCA Student | UI/UX & App Developer  
-[LinkedIn Profile](www.linkedin.com/in/praveen-kumar-v2a1a255)  
+[LinkedIn Profile](https://www.linkedin.com/in/praveen-kumar-v2a1a255/)  
